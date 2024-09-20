@@ -24,3 +24,5 @@ Speed: 4sec 913ms, BUILD SUCCESSFUL in 6s
 
 SIZE = 10000, REPS = 10000000
 Speed: 45sec 951ms, BUILD SUCCESSFUL in 47s
+
+Linked list testing resulted in all tests still passing
